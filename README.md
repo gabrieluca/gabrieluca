@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-<!--
-**gabrieluca/gabrieluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+[![GitHub gabrieluca](https://img.shields.io/github/followers/gabrieluca?label=follow&style=social)](https://github.com/gabrieluca)
+[![LinkedIn: Gabriel Luca](https://img.shields.io/badge/Gabrieluca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieluca/)](https://www.linkedin.com/in/gabrieluca/)
 - 🔭 I’m currently working on my own sports app and a smoke shop app.
 - 🌱 I’m currently learning DDD and TDD
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 You can ask me about Flutter, Dart and Firebase
-- 📫 Get in touch with me on Linkedin: https://www.linkedin.com/in/gabrieluca/
 - ⚡ Fun fact: I've done a backpack trip across SouthEast Asia by myself
 
 ## Some of my weapons...
@@ -23,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Gabriel Luca's Github Stats](https://github-readme-stats.vercel.app/api?username=gabrieluca&count_private=true&theme=default&show_icons=true)](https://github.com/gabrieluca)
 
--->
+
