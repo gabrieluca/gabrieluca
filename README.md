@@ -15,6 +15,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 <!--
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: ...
+
 ## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieluca&count_private=true&theme=radical&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
