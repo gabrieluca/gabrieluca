@@ -16,6 +16,5 @@
 
 ## Github Stats
 
-[![Gabriel Luca's Github Stats](https://github-readme-stats.vercel.app/api?username=gabrieluca&count_private=true&theme=default&show_icons=true)](https://github.com/gabrieluca)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieluca&count_private=true&theme=radical&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 
