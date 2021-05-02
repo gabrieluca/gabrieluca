@@ -8,7 +8,7 @@
 - 💬 You can ask me about Flutter, Dart and Firebase
 - ⚡ Fun fact: I've done a backpack trip across SouthEast Asia by myself
 
-## Some of my weapons...
+## Some of my weapons
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
