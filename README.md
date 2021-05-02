@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! <img src="https://github.com/gabrieluca/gabrieluca/blob/main/waving.gif" width="30px">
 
 [![GitHub gabrieluca](https://img.shields.io/github/followers/gabrieluca?label=follow&style=social)](https://github.com/gabrieluca)
 [![LinkedIn: Gabriel Luca](https://img.shields.io/badge/Gabrieluca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieluca/)](https://www.linkedin.com/in/gabrieluca/)
