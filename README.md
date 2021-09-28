@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my own sports app and a smoke shop app.
 - 🌱 I’m currently learning DDD and TDD
 - 💬 You can ask me about Flutter, Dart and Firebase
-- ⚡ Fun fact: I've done a backpack trip across Southeast Asia by myself
+- ⚡ Fun fact: I've done a backpack trip across South East Asia by myself
 
 ## Some of my weapons
 
