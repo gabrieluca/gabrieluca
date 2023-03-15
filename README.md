@@ -3,7 +3,7 @@
 [![GitHub gabrieluca](https://img.shields.io/github/followers/gabrieluca?label=follow&style=social)](https://github.com/gabrieluca)
 [![LinkedIn: Gabriel Luca](https://img.shields.io/badge/Gabrieluca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieluca/)](https://www.linkedin.com/in/gabrieluca/)
 
-- 🔭 I’m currently working on Xports App, Atlas Technologies and also as a Freelancer.
+- 🔭 I’m working on Xports App, Atlas Technologies and also as a Freelancer.
 - 🌱 I’m currently learning iOS Development with Swift
 - 💬 You can ask me about Flutter, Dart and Firebase
 - ⚡ Fun fact: I've done a backpack trip across South East Asia by myself
